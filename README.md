@@ -1,4 +1,4 @@
-# Link com a resposta da sexta questão
+# Link com a resposta da sexta questão (TinkerCad):
 https://www.tinkercad.com/things/2lIBHnlpfWo-prova-i-se
 
 # Implementação do Kernel FreeRTOS baseado em POSIX
