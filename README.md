@@ -1,3 +1,6 @@
+# Link com a resposta da sexta questão
+https://www.tinkercad.com/things/2lIBHnlpfWo-prova-i-se
+
 # Implementação do Kernel FreeRTOS baseado em POSIX
 
 A aplicação implementa a manipulação de tarefas baseadas no Kernel do FreeRTOS baseado em POSIX para a introdução dos alunos da disciplina de Sistemas Embarcados da Universidade Federal do Ceará (UFC).
